@@ -9,11 +9,13 @@ ____________________
 
 DATASETS:
 
-reviews.csv - review data
+reviews.csv* - review data
 
 Test-Set.csv - sales test set data
 
 Train-Set.csv - sales training set data
+
+Note: reviews.csv can be found at https://www.kaggle.com/snap/amazon-fine-food-reviews
 ____________________
 
 PYTHON NOTEBOOKS:
